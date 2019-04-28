@@ -1,0 +1,2 @@
+boards 针对 NXP 官方的 RT1052-EVK 开发板写的例程
+CMSIS CMSIS 相关的软件包，里面有一些重要的头文件还有 DSP 库
